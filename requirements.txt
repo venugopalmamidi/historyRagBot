@@ -5,8 +5,10 @@ langchain==0.2.16
 langchain-community==0.2.16
 langchain-openai==0.1.23
 
-chromadb==0.5.3
-tiktoken==0.7.0
+
+tiktoken==0.5.2
+chromadb==0.4.24
+
 
 requests
 certifi
